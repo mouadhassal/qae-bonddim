@@ -1,0 +1,254 @@
+[
+ {
+  "n": 8,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 9,
+  "seconds": 0.4419171999907121,
+  "err": 3.760152744725076e-10,
+  "cx": 1317
+ },
+ {
+  "n": 8,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 9,
+  "seconds": 0.04179350007325411,
+  "err": 4.718447854656915e-16,
+  "cx": 117
+ },
+ {
+  "n": 8,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 16,
+  "seconds": 0.10907790006604046,
+  "err": 4.2164549629575276e-11,
+  "cx": 261
+ },
+ {
+  "n": 8,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 16,
+  "seconds": 0.11427069990895689,
+  "err": 7.216449660063518e-16,
+  "cx": 117
+ },
+ {
+  "n": 10,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 11,
+  "seconds": 1.8426422999473289,
+  "err": 1.303976024380482e-10,
+  "cx": 2189
+ },
+ {
+  "n": 10,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 11,
+  "seconds": 0.04340640001464635,
+  "err": 2.0816681711721685e-17,
+  "cx": 153
+ },
+ {
+  "n": 10,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 20,
+  "seconds": 0.15441170008853078,
+  "err": 3.693973599228073e-11,
+  "cx": 333
+ },
+ {
+  "n": 10,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 20,
+  "seconds": 1.6444268999621272,
+  "err": 1.942890293094024e-16,
+  "cx": 153
+ },
+ {
+  "n": 12,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 13,
+  "seconds": 7.539346600067802,
+  "err": 6.117424414253669e-10,
+  "cx": 3317
+ },
+ {
+  "n": 12,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 13,
+  "seconds": 0.08986359997652471,
+  "err": 4.440892098500626e-16,
+  "cx": 189
+ },
+ {
+  "n": 12,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 24,
+  "seconds": 0.23244870000053197,
+  "err": 6.734797615426391e-11,
+  "cx": 405
+ },
+ {
+  "n": 12,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 24,
+  "seconds": 34.71714500000235,
+  "err": 4.0245584642661925e-16,
+  "cx": 189
+ },
+ {
+  "n": 14,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 15,
+  "seconds": 33.70424899994396,
+  "err": 1.7632202382183992e-10,
+  "cx": 4669
+ },
+ {
+  "n": 14,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 15,
+  "seconds": 0.1482953999657184,
+  "err": 6.149594722337781e-16,
+  "cx": 225
+ },
+ {
+  "n": 14,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 28,
+  "seconds": 0.5250612000236288,
+  "err": 1.533270715253776e-10,
+  "cx": 477
+ },
+ {
+  "n": 14,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 28,
+  "seconds": null,
+  "err": null,
+  "note": "28 qubits: 4 GiB statevector, not run"
+ },
+ {
+  "n": 16,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 17,
+  "seconds": 69.59583909995854,
+  "err": 2.8979935326467476e-09,
+  "cx": 6213
+ },
+ {
+  "n": 16,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 17,
+  "seconds": 0.3683270000619814,
+  "err": 2.983724378680108e-16,
+  "cx": 261
+ },
+ {
+  "n": 16,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 32,
+  "seconds": 0.6458818999817595,
+  "err": 1.8668502160812395e-10,
+  "cx": 549
+ },
+ {
+  "n": 16,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 32,
+  "seconds": null,
+  "err": null,
+  "note": "32 qubits: 64 GiB statevector, not run"
+ },
+ {
+  "n": 18,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 19,
+  "seconds": 105.18384760001209,
+  "err": 2.269195990833861e-09,
+  "cx": 8109
+ },
+ {
+  "n": 18,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 19,
+  "seconds": 0.6972104000160471,
+  "err": 1.9220736113823023e-15,
+  "cx": 297
+ },
+ {
+  "n": 18,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 36,
+  "seconds": 0.603302999981679,
+  "err": 2.0546127299514438e-10,
+  "cx": 621
+ },
+ {
+  "n": 18,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 36,
+  "seconds": null,
+  "err": null,
+  "note": "36 qubits: 1024 GiB statevector, not run"
+ },
+ {
+  "n": 20,
+  "mode": "auto",
+  "method": "matrix_product_state",
+  "qubits": 21,
+  "seconds": 149.6196313999826,
+  "err": 4.634121218705101e-09,
+  "cx": 9969
+ },
+ {
+  "n": 20,
+  "mode": "auto",
+  "method": "statevector",
+  "qubits": 21,
+  "seconds": 2.2091354998992756,
+  "err": 2.6922908347160046e-15,
+  "cx": 297
+ },
+ {
+  "n": 20,
+  "mode": "vchain",
+  "method": "matrix_product_state",
+  "qubits": 40,
+  "seconds": 0.23771879996638745,
+  "err": 9.017425695034831e-11,
+  "cx": 657
+ },
+ {
+  "n": 20,
+  "mode": "vchain",
+  "method": "statevector",
+  "qubits": 40,
+  "seconds": null,
+  "err": null,
+  "note": "40 qubits: 16384 GiB statevector, not run"
+ }
+]
